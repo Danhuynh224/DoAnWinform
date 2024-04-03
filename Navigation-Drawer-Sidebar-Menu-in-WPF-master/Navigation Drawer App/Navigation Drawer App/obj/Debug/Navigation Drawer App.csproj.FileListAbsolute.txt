@@ -1,0 +1,43 @@
+C:\Users\Arun Enterprises Co\source\repos\Navigation Drawer App\Navigation Drawer App\bin\Debug\Navigation Drawer App.exe.config
+C:\Users\Arun Enterprises Co\source\repos\Navigation Drawer App\Navigation Drawer App\bin\Debug\Navigation Drawer App.exe
+C:\Users\Arun Enterprises Co\source\repos\Navigation Drawer App\Navigation Drawer App\bin\Debug\Navigation Drawer App.pdb
+C:\Users\Arun Enterprises Co\source\repos\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App.csprojAssemblyReference.cache
+C:\Users\Arun Enterprises Co\source\repos\Navigation Drawer App\Navigation Drawer App\obj\Debug\MainWindow.g.cs
+C:\Users\Arun Enterprises Co\source\repos\Navigation Drawer App\Navigation Drawer App\obj\Debug\App.g.cs
+C:\Users\Arun Enterprises Co\source\repos\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App_MarkupCompile.cache
+C:\Users\Arun Enterprises Co\source\repos\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App_MarkupCompile.lref
+C:\Users\Arun Enterprises Co\source\repos\Navigation Drawer App\Navigation Drawer App\obj\Debug\MainWindow.baml
+C:\Users\Arun Enterprises Co\source\repos\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App.g.resources
+C:\Users\Arun Enterprises Co\source\repos\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation_Drawer_App.Properties.Resources.resources
+C:\Users\Arun Enterprises Co\source\repos\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App.csproj.GenerateResource.cache
+C:\Users\Arun Enterprises Co\source\repos\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App.exe
+C:\Users\Arun Enterprises Co\source\repos\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App.pdb
+C:\Users\Arun Enterprises Co\Desktop\Navigation Drawer App - YouTube Upload Contents\Source Code\Navigation Drawer App\Navigation Drawer App\bin\Debug\Navigation Drawer App.exe.config
+C:\Users\Arun Enterprises Co\Desktop\Navigation Drawer App - YouTube Upload Contents\Source Code\Navigation Drawer App\Navigation Drawer App\bin\Debug\Navigation Drawer App.exe
+C:\Users\Arun Enterprises Co\Desktop\Navigation Drawer App - YouTube Upload Contents\Source Code\Navigation Drawer App\Navigation Drawer App\bin\Debug\Navigation Drawer App.pdb
+C:\Users\Arun Enterprises Co\Desktop\Navigation Drawer App - YouTube Upload Contents\Source Code\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App.csprojAssemblyReference.cache
+C:\Users\Arun Enterprises Co\Desktop\Navigation Drawer App - YouTube Upload Contents\Source Code\Navigation Drawer App\Navigation Drawer App\obj\Debug\MainWindow.g.cs
+C:\Users\Arun Enterprises Co\Desktop\Navigation Drawer App - YouTube Upload Contents\Source Code\Navigation Drawer App\Navigation Drawer App\obj\Debug\App.g.cs
+C:\Users\Arun Enterprises Co\Desktop\Navigation Drawer App - YouTube Upload Contents\Source Code\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App_MarkupCompile.cache
+C:\Users\Arun Enterprises Co\Desktop\Navigation Drawer App - YouTube Upload Contents\Source Code\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App_MarkupCompile.lref
+C:\Users\Arun Enterprises Co\Desktop\Navigation Drawer App - YouTube Upload Contents\Source Code\Navigation Drawer App\Navigation Drawer App\obj\Debug\MainWindow.baml
+C:\Users\Arun Enterprises Co\Desktop\Navigation Drawer App - YouTube Upload Contents\Source Code\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App.g.resources
+C:\Users\Arun Enterprises Co\Desktop\Navigation Drawer App - YouTube Upload Contents\Source Code\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation_Drawer_App.Properties.Resources.resources
+C:\Users\Arun Enterprises Co\Desktop\Navigation Drawer App - YouTube Upload Contents\Source Code\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App.csproj.GenerateResource.cache
+C:\Users\Arun Enterprises Co\Desktop\Navigation Drawer App - YouTube Upload Contents\Source Code\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App.exe
+C:\Users\Arun Enterprises Co\Desktop\Navigation Drawer App - YouTube Upload Contents\Source Code\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App.pdb
+C:\Users\DELL 3500\Desktop\Winform\Navigation-Drawer-Sidebar-Menu-in-WPF-master\Navigation Drawer App\Navigation Drawer App\bin\Debug\Navigation Drawer App.exe.config
+C:\Users\DELL 3500\Desktop\Winform\Navigation-Drawer-Sidebar-Menu-in-WPF-master\Navigation Drawer App\Navigation Drawer App\bin\Debug\Navigation Drawer App.exe
+C:\Users\DELL 3500\Desktop\Winform\Navigation-Drawer-Sidebar-Menu-in-WPF-master\Navigation Drawer App\Navigation Drawer App\bin\Debug\Navigation Drawer App.pdb
+C:\Users\DELL 3500\Desktop\Winform\Navigation-Drawer-Sidebar-Menu-in-WPF-master\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App.csproj.AssemblyReference.cache
+C:\Users\DELL 3500\Desktop\Winform\Navigation-Drawer-Sidebar-Menu-in-WPF-master\Navigation Drawer App\Navigation Drawer App\obj\Debug\MainWindow.g.cs
+C:\Users\DELL 3500\Desktop\Winform\Navigation-Drawer-Sidebar-Menu-in-WPF-master\Navigation Drawer App\Navigation Drawer App\obj\Debug\App.g.cs
+C:\Users\DELL 3500\Desktop\Winform\Navigation-Drawer-Sidebar-Menu-in-WPF-master\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App_MarkupCompile.cache
+C:\Users\DELL 3500\Desktop\Winform\Navigation-Drawer-Sidebar-Menu-in-WPF-master\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App_MarkupCompile.lref
+C:\Users\DELL 3500\Desktop\Winform\Navigation-Drawer-Sidebar-Menu-in-WPF-master\Navigation Drawer App\Navigation Drawer App\obj\Debug\MainWindow.baml
+C:\Users\DELL 3500\Desktop\Winform\Navigation-Drawer-Sidebar-Menu-in-WPF-master\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App.g.resources
+C:\Users\DELL 3500\Desktop\Winform\Navigation-Drawer-Sidebar-Menu-in-WPF-master\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation_Drawer_App.Properties.Resources.resources
+C:\Users\DELL 3500\Desktop\Winform\Navigation-Drawer-Sidebar-Menu-in-WPF-master\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App.csproj.GenerateResource.cache
+C:\Users\DELL 3500\Desktop\Winform\Navigation-Drawer-Sidebar-Menu-in-WPF-master\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App.csproj.CoreCompileInputs.cache
+C:\Users\DELL 3500\Desktop\Winform\Navigation-Drawer-Sidebar-Menu-in-WPF-master\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App.exe
+C:\Users\DELL 3500\Desktop\Winform\Navigation-Drawer-Sidebar-Menu-in-WPF-master\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App.pdb

@@ -1,0 +1,15 @@
+C:\Users\DELL 3500\Desktop\Winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\DELL 3500\Desktop\Winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\DELL 3500\Desktop\Winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\DELL 3500\Desktop\Winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SqlClient.dll
+C:\Users\DELL 3500\Desktop\Winform\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SqlClient.xml
+C:\Users\DELL 3500\Desktop\Winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\DELL 3500\Desktop\Winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\DELL 3500\Desktop\Winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\DELL 3500\Desktop\Winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\DELL 3500\Desktop\Winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\DELL 3500\Desktop\Winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\DELL 3500\Desktop\Winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\DELL 3500\Desktop\Winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\DELL 3500\Desktop\Winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\DELL 3500\Desktop\Winform\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UCThongTin.resources

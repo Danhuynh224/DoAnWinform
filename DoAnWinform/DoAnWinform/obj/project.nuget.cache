@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "0CozOCZnYgGz4dxq69/E4oRrYEazkQCYAfbdbu/3N2d/4HQOFwuPzLpmE/6KGmPLUYrtRTWOIMme1uFJuLmq2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL 3500\\Desktop\\Winform\\DoAnWinform\\DoAnWinform\\DoAnWinform.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL 3500\\.nuget\\packages\\materialdesigncolors\\2.1.4\\materialdesigncolors.2.1.4.nupkg.sha512",
+    "C:\\Users\\DELL 3500\\.nuget\\packages\\materialdesignthemes\\4.9.0\\materialdesignthemes.4.9.0.nupkg.sha512",
+    "C:\\Users\\DELL 3500\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}

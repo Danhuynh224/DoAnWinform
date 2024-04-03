@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuanLyHocSinh", "WindowsFormsApp1\QuanLyHocSinh.csproj", "{9EF04C89-E093-419A-A9EB-18CE0B87FAEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EF04C89-E093-419A-A9EB-18CE0B87FAEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EF04C89-E093-419A-A9EB-18CE0B87FAEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EF04C89-E093-419A-A9EB-18CE0B87FAEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EF04C89-E093-419A-A9EB-18CE0B87FAEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1E6A12A-3701-429A-8379-D193044B931B}
+	EndGlobalSection
+EndGlobal
